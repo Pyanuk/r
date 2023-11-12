@@ -1,0 +1,7 @@
+C:\Users\rhali\source\repos\pisda\pisda\obj\Debug\pisda.csproj.AssemblyReference.cache
+C:\Users\rhali\source\repos\pisda\pisda\obj\Debug\pisda.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\pisda\pisda\bin\Debug\pisda.exe.config
+C:\Users\rhali\source\repos\pisda\pisda\bin\Debug\pisda.exe
+C:\Users\rhali\source\repos\pisda\pisda\bin\Debug\pisda.pdb
+C:\Users\rhali\source\repos\pisda\pisda\obj\Debug\pisda.exe
+C:\Users\rhali\source\repos\pisda\pisda\obj\Debug\pisda.pdb
